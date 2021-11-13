@@ -1,0 +1,51 @@
+body
+{
+  color: white;
+  background-color: cadetblue;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_gesture ,#result_gesture_2 
+{
+  color: black;
+}
+.gesture_name
+{
+  font-size: 40px;
+}
+.gesture
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size: 20px;
+  color: black;
+  font-variant: small-caps; 
+  letter-spacing: 5px;
+  border-color:white;
+  border-style: groove;
+}
+label
+{
+  font-size: 20px;
+  color:black;
+  font-variant: small-caps;
+}
+button
+{
+  font-size: 20px;
+  color:white;
+  font-variant: small-caps;
+  border-style:ridge ;
+  border-width: 10px;
+  border-color: black;
+}
